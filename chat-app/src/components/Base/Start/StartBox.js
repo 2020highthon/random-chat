@@ -77,7 +77,7 @@ const StartBox = () => {
                     <SearchButton_2/>
                     <TextArea>매칭하기</TextArea>
                     <TextArea_1>매칭 시 조금의 대기시간이 있을 <br/> 수 있습니다.</TextArea_1>
-                    <Icon> <img src = "icon\search.png"/> </Icon>
+                    <Icon> <img src = "search.png"/> </Icon>
                 </div>
             </LinkTag>
         </ShadowedBox>
