@@ -3,7 +3,7 @@ import io from 'socket.io-client';
 import LoginForm from "../components/Login/LoginForm";
 import ChatContainer from "../components/Chat/ChatContainer";
 import {USER_CONNECTED, LOGOUT} from '../Events'
-const socketUrl = "";
+const socketUrl = "localhost:3231";
 
 class Chat extends Component {
     state = {
