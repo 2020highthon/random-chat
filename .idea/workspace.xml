@@ -56,7 +56,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\random-chat\chat-app\src\components\Base" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\random-chat" />
       <recent name="C:\random-chat\chat-app\src" />
       <recent name="C:\random-chat\chat-app" />
     </key>
@@ -87,7 +91,7 @@
       <workItem from="1579072493258" duration="760000" />
       <workItem from="1579329102567" duration="1243000" />
       <workItem from="1579331055629" duration="56000" />
-      <workItem from="1579331112333" duration="11447000" />
+      <workItem from="1579331112333" duration="16145000" />
     </task>
     <servers />
   </component>
@@ -95,10 +99,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579334603825">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579348923770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579334603825" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579348923770" />
     <state x="589" y="297" key="EditFileWatcherDialog" timestamp="1578903545890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

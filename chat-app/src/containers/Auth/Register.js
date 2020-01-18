@@ -3,7 +3,7 @@ import { AuthContent, InputWithLabel, AuthButton, RightAlignedLink, AuthError } 
 import { connect } from 'react-redux';
 import {bindActionCreators} from 'redux';
 import * as authActions from '../../redux/modules/auth';
-import {isEmail, isLength, isAlphanumeric} from 'validator';
+import {isEmail, isLength} from 'validator';
 import debounce from 'lodash/debounce';
 import * as userActions from '../../redux/modules/user';
 import storage from '../../lib/storage';

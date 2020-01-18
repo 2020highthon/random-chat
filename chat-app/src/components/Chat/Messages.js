@@ -3,10 +3,12 @@ import React, {Component} from 'react';
 class Messages extends Component {
     constructor(props) {
         super(props);
+
+        this.scrollDown = this.scrollDown.bind(this)
     }
 
-    scrollDown(){
-        const { container } = this.refs
+    scrollDown() {
+        const {container} = this.refs
         container.scrollTop = container.scrollHeight
     }
 
@@ -17,14 +19,14 @@ class Messages extends Component {
     componentDidUpdate(prevProps, prevState) {
         this.scrollDown()
     }
-    
+
     render() {
         const {messages, user, typingUsers} = this.props;
         return (
             <div className="thread-container">
                 <div className="thread">
                     {
-                        messages.map((mes)=>{
+                        messages.map((mes) => {
                             return (
                                 <div
                                     key={mes.id}
@@ -41,7 +43,7 @@ class Messages extends Component {
                         })
                     }
                     {
-                        typingUsers.map((name)=>{
+                        typingUsers.map((name) => {
                             return (
                                 <div key={name} className="typing-user">
                                     {`${name}님이 입력중입니다.`}

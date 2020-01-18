@@ -7,6 +7,7 @@ import storage from '../lib/storage';
 import { connect } from 'react-redux';
 import {bindActionCreators} from 'redux';
 import * as userActions from '../redux/modules/user';
+import Chat from "../pages/Chat";
 
 class App extends Component {
     componentDidMount() {
@@ -33,6 +34,7 @@ class App extends Component {
                 <HeaderContainer/>
                 <Route exact path="/" component={Home}/>
                 <Route path="/auth" component={Auth}/>
+                <Route path="/chatting" component={Chat}/>
             </div>
         );
     }
