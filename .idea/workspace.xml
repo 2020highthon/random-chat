@@ -52,8 +52,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/문서/GitHub/fluss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chat-app/src" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\random-chat\chat-app\src" />
+      <recent name="C:\random-chat\chat-app" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -81,7 +87,7 @@
       <workItem from="1579072493258" duration="760000" />
       <workItem from="1579329102567" duration="1243000" />
       <workItem from="1579331055629" duration="56000" />
-      <workItem from="1579331112333" duration="2943000" />
+      <workItem from="1579331112333" duration="9271000" />
     </task>
     <servers />
   </component>
@@ -97,13 +103,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578903545890" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579333628410">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579336068092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579333628410" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579336068092" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578902228836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578902228836" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579336269367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579336269367" />
   </component>
 </project>
