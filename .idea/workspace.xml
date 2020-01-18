@@ -52,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chat-app/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +87,7 @@
       <workItem from="1579072493258" duration="760000" />
       <workItem from="1579329102567" duration="1243000" />
       <workItem from="1579331055629" duration="56000" />
-      <workItem from="1579331112333" duration="9271000" />
+      <workItem from="1579331112333" duration="11447000" />
     </task>
     <servers />
   </component>
