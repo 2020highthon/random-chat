@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f31ba5dd-32c4-448f-b307-c845c5d2bc8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chats/ChatContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chats/ChatContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chats/ChatHeading.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chats/ChatHeading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chats/SideBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chats/SideBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/messages/MessageInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/messages/MessageInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/messages/Messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/messages/Messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Chat-App\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKXnPFQA6IVt8fuHrKZ9G9LNiQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/문서/GitHub/fluss" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31ba5dd-32c4-448f-b307-c845c5d2bc8a" name="Default Changelist" comment="" />
+      <created>1578899425136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578899425136</updated>
+      <workItem from="1578899426899" duration="6314000" />
+      <workItem from="1579072493258" duration="760000" />
+      <workItem from="1579329102567" duration="1243000" />
+      <workItem from="1579331055629" duration="56000" />
+      <workItem from="1579331112333" duration="2943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579334603825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579334603825" />
+    <state x="589" y="297" key="EditFileWatcherDialog" timestamp="1578903545890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578903545890" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579333628410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579333628410" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578902228836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578902228836" />
+  </component>
+</project>
