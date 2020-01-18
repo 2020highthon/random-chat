@@ -1,4 +1,13 @@
 import React, {Component} from 'react';
+import styled from 'styled-components'
+const Name_1 = styled.div`
+font-size: 20px;
+font-weight: bold;
+margin: 10px 0px 10px 10%;
+`
+const LogOut = styled.div`
+cursor: pointer;
+`
 
 class SideBar extends Component {
     render() {
@@ -41,14 +50,16 @@ class SideBar extends Component {
                     }
 
                 </div>
-                <div className="current-user">
+                <Name_1 className="current-user">
                     <span>{user.name}</span>
-                    <div onClick={() => {
+
+                    <LogOut onClick={() => {
                         logout()
                     }} title="Logout" className="logout">
                         로그아웃 하기
-                    </div>
-                </div>
+                    </LogOut>
+
+                </Name_1>
             </div>
         );
     }

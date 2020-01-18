@@ -1,5 +1,26 @@
 import React, {Component} from 'react';
+import styled from 'styled-components'
 
+const Message = styled.div`
+border-bottom: 1px black solid;
+`
+const Button = styled.button`
+    text-decoration: none;
+    border-radius : 20%;
+    font-weight: bold;
+    font-size: 20px;
+    background: white;
+    color: black;
+    cursor: pointer;
+`
+const Input = styled.input`
+    margin-left: 10%;
+    font-size: 18px;
+    width: 450px;
+    height: 30px;
+    border-radius : 20%;
+    border: none;
+`
 class MessageInput extends Component {
 
     state = {
@@ -61,18 +82,17 @@ class MessageInput extends Component {
     render() {
         const { message } = this.state
         return (
-            <div className="message-input">
+            <Message className="message-input">
                 <form
                     onSubmit={ this.handleSubmit }
                     className="message-form">
-
-                    <input
+                    <Input
                         id = "message"
                         type = "text"
                         className = "form-control"
                         value = { message }
                         autoComplete = {'off'}
-                        placeholder = "Type something interesting"
+                        placeholder = "채팅쳐 "
                         onKeyUp = { e => { e.keyCode !== 13 && this.sendTyping() } }
                         onChange = {
                             ({target})=>{
@@ -80,14 +100,14 @@ class MessageInput extends Component {
                             }
                         }
                     />
-                    <button
+                    <Button
                         disabled = { message.length < 1 }
                         type = "submit"
                         className = "send"
-                    > Send </button>
+                    > 전송 </Button>
+                    
                 </form>
-
-            </div>
+            </Message>
         );
     }
 }

@@ -7,7 +7,17 @@ import {shadow} from "../../lib/styleUtil";
 const Wrapper = styled.div`
     margin-top: 100px;
 `;
-
+const Input = styled.input`
+    background-color:#CBE1B9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+`
 class LoginForm extends Component {
     state = {
         nickname: "",
@@ -46,7 +56,7 @@ class LoginForm extends Component {
             <Wrapper>
                 <div className="login">
                     <form onSubmit={this.handleSubmit} className="login-form">
-                        <input
+                        <Input
                             type="text"
                             id="nickname"
                             value={nickname}
@@ -57,6 +67,7 @@ class LoginForm extends Component {
                     </form>
                 </div>
             </Wrapper>
+
         );
     }
 }

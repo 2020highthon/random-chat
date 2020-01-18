@@ -64,7 +64,7 @@ const Header = ({children}) => {
         <Positioner>
             <WhiteBackground>
                 <HeaderContents>
-                    <Logo>logo</Logo>
+                    <Logo>RandomChatting</Logo>
                     <Spacer/>
                     {children}
                 </HeaderContents>

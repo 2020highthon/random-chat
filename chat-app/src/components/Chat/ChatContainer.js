@@ -122,6 +122,7 @@ export default class ChatContainer extends Component {
                     }
                 </div>
             </div>
+            
         );
     }
 }
