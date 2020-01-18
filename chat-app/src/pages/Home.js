@@ -8,6 +8,7 @@ const Page = styled.div`
     margin-right: 100px;
 `;
 
+
 class Home extends Component {
     render() {
         return (
